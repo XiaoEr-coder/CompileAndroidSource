@@ -1,6 +1,7 @@
 # 编译Android源码
 
-## 相关视频教程 [https://www.bilibili.com/video/BV1BJ411t7Ry](https://www.bilibili.com/video/BV1BJ411t7Ry)
+## 相关视频教程 
+[https://www.bilibili.com/video/BV1BJ411t7Ry](https://www.bilibili.com/video/BV1BJ411t7Ry)
 
 ## 说明
 本教程演示如何编译 Android 源码，目的是教会你如何基于aosp(Android open source project)定制Android系统。教程演示所使用的手机是Nexus6，但本教程是通用教程，并不局限于Nexus6，只要你有合适的驱动包，你就可以面向任意机型做定制。
